@@ -1,5 +1,3 @@
-Awesome — now that your teamnimbus monorepo is properly structured, here’s a clean and professional README.md you can drop into the root of your repo:
-
 ⸻
 
 ✅ teamnimbus/README.md
